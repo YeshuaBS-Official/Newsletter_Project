@@ -3,3 +3,6 @@ a.active{
     color: white;
 }
 
+image.newsletter-img{
+    object-fit: cover;
+}
