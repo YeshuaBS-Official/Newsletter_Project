@@ -6,3 +6,34 @@ a.active{
 image.newsletter-img{
     object-fit: cover;
 }
+
+.newsletter-header{
+    height: 237px;
+    width: 100%;
+    background-image:url(assets/d5df2281ebee9937bd5856daab91d3a9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.newsletter-textbox{
+    display: inline-block;
+    height: 138px;
+    width: inherit;
+    margin-top: 50px;
+    background: rgba(217, 217, 217, 0.7);
+}
+
+.newsletter-text{
+    color: #AF0F1C;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 75px;
+    font-weight: 300;
+}
+
+.newsletter-search{
+    height: 99px;
+    width: 100%;
+    background-color: #AF0F1C;
+}
