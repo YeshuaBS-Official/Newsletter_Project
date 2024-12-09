@@ -37,3 +37,20 @@ image.newsletter-img{
     width: 100%;
     background-color: #AF0F1C;
 }
+
+.searchDropDown{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+button.searchDropDown{
+    background-color: #7E0B14;
+    border-style: none;
+}
+
+ul.searchDropDown{
+    background-color: #7E0B14;
+}
+
+
+
