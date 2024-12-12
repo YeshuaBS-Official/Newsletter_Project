@@ -62,6 +62,10 @@ ul.searchDropDown{
     background-color: #7E0B14;
 }
 
+.dropdown-item:hover{
+    background-color: #AF0F1C;
+}
+
 .searchBarBtn{
     backface-visibility: visible;
     border-style: solid;
