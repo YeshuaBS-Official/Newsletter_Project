@@ -3,6 +3,16 @@ a.active{
     color: white;
 }
 
+.navbar-nav .nav-item .nav-link{
+    font-size: 18px;
+    padding: 30px 90px ;
+}
+
+.navbar-nav .nav-item{
+    margin-right: 15px;
+
+}
+
 image.newsletter-img{
     object-fit: cover;
 }
@@ -33,13 +43,13 @@ image.newsletter-img{
 }
 
 .newsletter-search{
-    height: 99px;
-    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #AF0F1C;
 }
 
 .searchDropDown{
-    padding-top: 50px;
+    /*padding-top: 50px;*/
     padding-left: 20px;
 }
 
@@ -52,5 +62,39 @@ ul.searchDropDown{
     background-color: #7E0B14;
 }
 
+.searchBarBtn{
+    backface-visibility: visible;
+    border-style: solid;
+    border-color: white;
+    border: 2px;
+    color: white;
+}
+
+.searchBar{
+    background-color: #7E0B14;
+}
+
+.breakRow{
+    background-color: black;
+}
+
+.featuredArt{
+    border-style: solid;
+    /*border-radius: 25px;*/
+    border-color: black;
+}
+
+.article{
+    padding-top: 35px;
+    padding-top: 35px;
+}
+
+.artLink{
+    color: black;
+}
+
+.artLink:hover{
+    color: grey;
+}
 
 
